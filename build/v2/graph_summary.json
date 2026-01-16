@@ -1,0 +1,12 @@
+Warning: Sensor node PumpA not found in graph.
+Warning: Sensor node PumpB not found in graph.
+Warning: Sensor node PumpC not found in graph.
+Warning: Sensor node PumpD not found in graph.
+{
+  "nodes": 1730,
+  "edges": 1725,
+  "zones": [],
+  "sources": 1,
+  "tanks": 5,
+  "sensors": 18
+}

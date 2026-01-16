@@ -1,0 +1,11 @@
+{
+  "status": "FAIL",
+  "hard_failures": [
+    {
+      "rule": "INPUT_VALIDATION",
+      "location": "File Load",
+      "message": "Failed to load graph from build/v2/graph.pkl: invalid load key, 'Y'."
+    }
+  ],
+  "soft_warnings": []
+}
