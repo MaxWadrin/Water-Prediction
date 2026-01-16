@@ -1,0 +1,86 @@
+DEBUG: Parsing line: ['Template', 'ResidentialFloor']
+DEBUG: Started template ResidentialFloor
+DEBUG: Parsing line: ['Node', 'FloorInlet']
+DEBUG: Parsing line: ['Node', 'Apt1']
+DEBUG: Parsing line: ['Node', 'Apt2']
+DEBUG: Parsing line: ['Node', 'Apt3']
+DEBUG: Parsing line: ['Node', 'Apt4']
+DEBUG: Parsing line: ['Edge', 'FloorInlet', 'Apt1']
+DEBUG: Parsing line: ['Edge', 'FloorInlet', 'Apt2']
+DEBUG: Parsing line: ['Edge', 'FloorInlet', 'Apt3']
+DEBUG: Parsing line: ['Edge', 'FloorInlet', 'Apt4']
+DEBUG: Parsing line: ['EndTemplate']
+DEBUG: Ending template ResidentialFloor
+DEBUG: Failed to save template ResidentialFloor
+DEBUG: Loaded templates: []
+DEBUG: Opening data/v1/Template_Application.txt
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor1_Junction']
+DEBUG: Applying ResidentialFloor to Floor1_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor2_Junction']
+DEBUG: Applying ResidentialFloor to Floor2_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor3_Junction']
+DEBUG: Applying ResidentialFloor to Floor3_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor4_Junction']
+DEBUG: Applying ResidentialFloor to Floor4_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor5_Junction']
+DEBUG: Applying ResidentialFloor to Floor5_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor6_Junction']
+DEBUG: Applying ResidentialFloor to Floor6_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor7_Junction']
+DEBUG: Applying ResidentialFloor to Floor7_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor8_Junction']
+DEBUG: Applying ResidentialFloor to Floor8_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor9_Junction']
+DEBUG: Applying ResidentialFloor to Floor9_Junction
+DEBUG: Line parts: ['Apply', 'ResidentialFloor', 'Floor10_Junction']
+DEBUG: Applying ResidentialFloor to Floor10_Junction
+Warning: Demand node Floor1_Junction.Apt1 not found in graph.
+Warning: Demand node Floor1_Junction.Apt2 not found in graph.
+Warning: Demand node Floor1_Junction.Apt3 not found in graph.
+Warning: Demand node Floor1_Junction.Apt4 not found in graph.
+Warning: Demand node Floor2_Junction.Apt1 not found in graph.
+Warning: Demand node Floor2_Junction.Apt2 not found in graph.
+Warning: Demand node Floor2_Junction.Apt3 not found in graph.
+Warning: Demand node Floor2_Junction.Apt4 not found in graph.
+Warning: Demand node Floor3_Junction.Apt1 not found in graph.
+Warning: Demand node Floor3_Junction.Apt2 not found in graph.
+Warning: Demand node Floor3_Junction.Apt3 not found in graph.
+Warning: Demand node Floor3_Junction.Apt4 not found in graph.
+Warning: Demand node Floor4_Junction.Apt1 not found in graph.
+Warning: Demand node Floor4_Junction.Apt2 not found in graph.
+Warning: Demand node Floor4_Junction.Apt3 not found in graph.
+Warning: Demand node Floor4_Junction.Apt4 not found in graph.
+Warning: Demand node Floor5_Junction.Apt1 not found in graph.
+Warning: Demand node Floor5_Junction.Apt2 not found in graph.
+Warning: Demand node Floor5_Junction.Apt3 not found in graph.
+Warning: Demand node Floor5_Junction.Apt4 not found in graph.
+Warning: Demand node Floor6_Junction.Apt1 not found in graph.
+Warning: Demand node Floor6_Junction.Apt2 not found in graph.
+Warning: Demand node Floor6_Junction.Apt3 not found in graph.
+Warning: Demand node Floor6_Junction.Apt4 not found in graph.
+Warning: Demand node Floor7_Junction.Apt1 not found in graph.
+Warning: Demand node Floor7_Junction.Apt2 not found in graph.
+Warning: Demand node Floor7_Junction.Apt3 not found in graph.
+Warning: Demand node Floor7_Junction.Apt4 not found in graph.
+Warning: Demand node Floor8_Junction.Apt1 not found in graph.
+Warning: Demand node Floor8_Junction.Apt2 not found in graph.
+Warning: Demand node Floor8_Junction.Apt3 not found in graph.
+Warning: Demand node Floor8_Junction.Apt4 not found in graph.
+Warning: Demand node Floor9_Junction.Apt1 not found in graph.
+Warning: Demand node Floor9_Junction.Apt2 not found in graph.
+Warning: Demand node Floor9_Junction.Apt3 not found in graph.
+Warning: Demand node Floor9_Junction.Apt4 not found in graph.
+Warning: Demand node Floor10_Junction.Apt1 not found in graph.
+Warning: Demand node Floor10_Junction.Apt2 not found in graph.
+Warning: Demand node Floor10_Junction.Apt3 not found in graph.
+Warning: Demand node Floor10_Junction.Apt4 not found in graph.
+Warning: Sensor node Floor1_Junction.FloorInlet not found in graph.
+Warning: Sensor node Floor10_Junction.FloorInlet not found in graph.
+{
+  "nodes": 12,
+  "edges": 11,
+  "zones": [],
+  "sources": 1,
+  "tanks": 1,
+  "sensors": 2
+}

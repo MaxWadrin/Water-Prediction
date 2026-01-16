@@ -1,0 +1,146 @@
+[
+    {
+        "timestamp": "2026-01-01T10:00:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T10:15:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T10:30:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T10:45:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T11:00:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T11:15:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T11:30:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T11:45:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T12:00:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T12:15:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T12:30:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T12:45:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T13:00:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T13:15:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T13:30:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T13:45:00",
+        "node_id": "Junction",
+        "anomaly_type": "Leak",
+        "severity": "High"
+    },
+    {
+        "timestamp": "2026-01-01T18:00:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T18:15:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T18:30:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T18:45:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T19:00:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T19:15:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T19:30:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    },
+    {
+        "timestamp": "2026-01-01T19:45:00",
+        "node_id": "Pump",
+        "anomaly_type": "Misuse",
+        "severity": "Medium"
+    }
+]

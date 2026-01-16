@@ -1,0 +1,10 @@
+Apply ResidentialFloor Floor1_Junction
+Apply ResidentialFloor Floor2_Junction
+Apply ResidentialFloor Floor3_Junction
+Apply ResidentialFloor Floor4_Junction
+Apply ResidentialFloor Floor5_Junction
+Apply ResidentialFloor Floor6_Junction
+Apply ResidentialFloor Floor7_Junction
+Apply ResidentialFloor Floor8_Junction
+Apply ResidentialFloor Floor9_Junction
+Apply ResidentialFloor Floor10_Junction

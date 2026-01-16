@@ -1,0 +1,11 @@
+Template ResidentialFloor
+Node FloorInlet
+Node Apt1
+Node Apt2
+Node Apt3
+Node Apt4
+Edge FloorInlet Apt1
+Edge FloorInlet Apt2
+Edge FloorInlet Apt3
+Edge FloorInlet Apt4
+EndTemplate

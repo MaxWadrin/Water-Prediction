@@ -1,0 +1,115 @@
+Template LobbyRetail
+Node Riser
+Node RestroomM
+Node RestroomF
+Node Retail1
+Node Retail2
+Edge Riser RestroomM
+Edge Riser RestroomF
+Edge Riser Retail1
+Edge Riser Retail2
+EndTemplate
+
+Template HotelFloor
+Node Riser
+Node Bath1
+Node Bath2
+Node Bath3
+Node Bath4
+Node Bath5
+Node Bath6
+Node Bath7
+Node Bath8
+Node Bath9
+Node Bath10
+Node Bath11
+Node Bath12
+Node Bath13
+Node Bath14
+Node Bath15
+Node Bath16
+Node Bath17
+Node Bath18
+Node Bath19
+Node Bath20
+Edge Riser Bath1
+Edge Riser Bath2
+Edge Riser Bath3
+Edge Riser Bath4
+Edge Riser Bath5
+Edge Riser Bath6
+Edge Riser Bath7
+Edge Riser Bath8
+Edge Riser Bath9
+Edge Riser Bath10
+Edge Riser Bath11
+Edge Riser Bath12
+Edge Riser Bath13
+Edge Riser Bath14
+Edge Riser Bath15
+Edge Riser Bath16
+Edge Riser Bath17
+Edge Riser Bath18
+Edge Riser Bath19
+Edge Riser Bath20
+EndTemplate
+
+Template OfficeFloor
+Node Riser
+Node Kitchen
+Node RestroomBlock
+Edge Riser Kitchen
+Edge Riser RestroomBlock
+EndTemplate
+
+Template ResidentialFloor
+Node Riser
+Node Apt1
+Node Apt2
+Node Apt3
+Node Apt4
+Node Apt5
+Node Apt6
+Node Apt7
+Node Apt8
+Edge Riser Apt1
+Edge Riser Apt2
+Edge Riser Apt3
+Edge Riser Apt4
+Edge Riser Apt5
+Edge Riser Apt6
+Edge Riser Apt7
+Edge Riser Apt8
+EndTemplate
+
+Template LuxuryHotel
+Node Riser
+Node Suite1
+Node Suite2
+Node Suite3
+Node Suite4
+Node Suite5
+Node Suite6
+Node Suite7
+Node Suite8
+Node Suite9
+Node Suite10
+Edge Riser Suite1
+Edge Riser Suite2
+Edge Riser Suite3
+Edge Riser Suite4
+Edge Riser Suite5
+Edge Riser Suite6
+Edge Riser Suite7
+Edge Riser Suite8
+Edge Riser Suite9
+Edge Riser Suite10
+EndTemplate
+
+Template ObsRestaurant
+Node Riser
+Node Kitchen
+Node PublicRestroom
+Edge Riser Kitchen
+Edge Riser PublicRestroom
+EndTemplate
